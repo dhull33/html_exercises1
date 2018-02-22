@@ -1,0 +1,44 @@
+
+
+.header {
+    width: 100%;
+    background-color: grey;
+    overflow: auto;
+
+}
+
+
+.footer {
+    width: 100%;
+    background-color: grey;
+    overflow: auto;
+}
+
+
+.sidebar {
+    float: left;
+    background: blue;
+    height: 80%;
+    overflow: auto;
+
+
+}
+.content {
+    width: 50px;
+    height: 25px;
+
+}
+
+p.background {
+    background-color: aqua;
+
+}
+.clearfix {
+    overflow: auto;
+}
+
+div {
+    margin: 5px;
+    width: 200px;
+    height: 100px;
+}

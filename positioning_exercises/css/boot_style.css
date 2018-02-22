@@ -1,0 +1,43 @@
+
+a {
+    margin: auto;
+}
+
+p {
+    margin: auto;
+}
+
+body {
+    margin: .2rem;
+}
+
+.line {
+    width: 95%;
+    border: 1px solid black;
+    margin: .5rem auto 1rem auto;
+}
+
+p.bigtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin: 2rem auto;
+    font-family: "Arial Hebrew";
+}
+
+p.smallertext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin: 1.5rem;
+    font-family: "Arial Hebrew";
+}
+
+img.resize {
+    max-width: 60%;
+    height: auto;
+
+
+}

@@ -1,0 +1,42 @@
+
+.modal-dialog {
+    position: absolute;
+    right: 30%;
+    left: 30%;
+    width: 40%;
+    top: 30%;
+    height: 15%;
+    border: 5px solid black;
+    background-color: whitesmoke;
+
+}
+
+.modal-header {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 30%;
+    background-color: darkgray;
+
+}
+
+label.modal-title {
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    font-size: larger;
+    color: white;
+
+}
+
+.modal-content {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+
+.modal-buttons {
+    position: absolute;
+    bottom: 7%;
+    right: 5%;
+}
